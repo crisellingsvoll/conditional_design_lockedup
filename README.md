@@ -6,7 +6,7 @@
     
     1.1. No pueden estar a más de 15 cm de distancia.
 
-2. A partir de ahora: Rojo es cuadrado, Azul es círculo, Verde es rombo, Amarillo es triángulo y Negro es pentágono.
+2. A partir de ahora: Rojo es cuadrado, Azul es círculo, Verde es rombo, Negro es triángulo y Amarillo es pentágono.
    
    2.1. No puedes deformar las figuras. 
   
